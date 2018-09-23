@@ -1,0 +1,27 @@
+.content{
+    margin: 5% 5% 0 5%;
+    font-family: Arial,sans-serif;
+}
+canvas{
+    background-color: #fffdbf;
+    margin: 0 0 1% 0;
+}
+
+.button {outline: 0 !important;}
+.button{
+    background-color: #ffe933;
+    border: 0px;
+    box-shadow: 0 3px 8px 0 rgba(0,0,0,0.2),
+    0 0 0 1px rgba(0,0,0,0.08);
+    height: 20%;
+    text-shadow: #eadbff 0 0 10px;
+    font-size: 1.2em;
+    width: 18%;
+    height: 5%;
+}
+.button:active{
+    background-color: #ff8c00;
+    border: 0px;
+    box-shadow: 0 3px 8px 0 rgba(0,0,0,0.2),
+    0 0 0 1px rgba(0,0,0,0.08);
+}
